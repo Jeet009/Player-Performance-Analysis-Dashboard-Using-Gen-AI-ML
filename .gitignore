@@ -131,7 +131,8 @@ public
 
 # Data Files
 *.csv
-*.json
+# *.json
+package-lock.json
 *.xlsx
 *.xls
 *.parquet
